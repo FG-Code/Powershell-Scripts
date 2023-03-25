@@ -7,5 +7,5 @@
 ### Powershell Scripts
 
 ![](https://img.shields.io/github/contributors/FG-Code/Powershell-Scripts)
-![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/badge/Contributions-Accepting-indigo)
+![](https://img.shields.io/badge/Maintained-Yes-9cf)
+![](https://img.shields.io/badge/Contributions-Accepting-9cf)
