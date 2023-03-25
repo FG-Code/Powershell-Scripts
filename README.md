@@ -1,6 +1,6 @@
 ![language](img/made-with-powershell.svg)
 ![open](img/open-source.svg)
-![madeby](img/made-by-fg.svg)
+![creator](img/made-by-fg.svg)
 
 
 # FG | Code
