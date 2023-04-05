@@ -1,0 +1,7 @@
+1. Run SFC /Scannow
+
+Type CMD in the Search box, run as administrator.
+
+At the command prompt, copy-paste the following command:
+
+DISM.exe /Online /Cleanup-image /Restorehealth
