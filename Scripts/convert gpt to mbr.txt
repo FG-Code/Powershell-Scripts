@@ -1,0 +1,17 @@
+Convert GPT to MBR by Reformatting the Drive
+Since you are attempting to install Windows on the disk, you must have a Windows installation DVD or USB, with which you can also convert to MBR. However, this method needs you to manually wipe a drive and convert it to MBR. Reformatting will erase all the data on the drive. Hence, if the data matters, feel no hesitate to preserve your data and convert it to MBR using EaseUS Partition Master. Or, at least create a full backup before reformating the drive.
+
+Step 1. Turn off the PC and put in the Windows installation DVD or USB.
+
+Step 2. Boot the PC from the DVD or USB.
+
+Step 3. In Windows Setup, press "Shift + F10" to start Command Prompt.
+
+Step 4. Enter the following command in order:
+
+diskpart
+list disk
+select disk
+clean
+convert mbr
+exit
